@@ -1,3 +1,5 @@
 Git テストだちょ。
 1.基本
+/git add
+/git commit
 
