@@ -3,3 +3,6 @@ Git テストだちょ。
 /git add
 /git commit
 2.複数フィル変更
+git rm
+git status
+
